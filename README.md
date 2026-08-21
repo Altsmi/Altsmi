@@ -1,4 +1,4 @@
-# Hi, I'm August 👋
+# Hi, I'm Illya 👋
  
 Graphic Designer (Toronto) transitioning into full-stack development.
  
