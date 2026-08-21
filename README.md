@@ -1,6 +1,6 @@
 # Hi, I'm August 👋
  
-Graphic Designer (Toronto) transitioning into full-stack .NET development.
+Graphic Designer (Toronto) transitioning into full-stack development.
  
 ## About
 - Freelance brand identity designer, editorial/production background (MediaCorp Canada)
