@@ -9,7 +9,7 @@ Graphic Designer (Toronto) transitioning into full-stack .NET development.
 ## Featured Repos
 - **[Portfolio Website](#)** — personal site, design + full-stack .NET build
 - **[Folder Organizer](#)** — .NET MVVM app
-More projects and case studies will be on my [portfolio site(https://shpylkadesigns.vercel.app/)].
+More projects and case studies will be on my [[portfolio site](https://shpylkadesigns.vercel.app/)].
  
 ## Skills
 `C#` `ASP.NET Core` `Entity Framework Core` `PostgreSQL` `HTML/CSS` `Tailwind` `TypeScript` `Vue` `Figma`
