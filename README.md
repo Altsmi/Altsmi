@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**Altsmi/Altsmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm August 👋
+ 
+Graphic Designer (Toronto) transitioning into full-stack .NET development.
+ 
+## About
+- Freelance brand identity designer, editorial/production background (MediaCorp Canada)
+- Self-teaching full-stack dev: C#, ASP.NET Core, Entity Framework Core, SQL/PostgreSQL
+- Targeting: Junior .NET Developer / UI Developer roles
+## Featured Repos
+- **[Portfolio Website](#)** — personal site, design + full-stack .NET build
+- **[Folder Organizer](#)** — .NET MVVM app
+More projects and case studies will be on my [[portfolio site](https://shpylkadesigns.vercel.app/)](#).
+ 
+## Skills
+`C#` `ASP.NET Core` `Entity Framework Core` `PostgreSQL` `HTML/CSS` `Tailwind` `TypeScript` `Vue` `Figma`
+ 
